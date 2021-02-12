@@ -1,5 +1,5 @@
 # Hypeblog🚀
->- *Mi primer blog como desarrollador de software.*
+>- *Mi primer blog como desarrollador de web.*
 >
 >- Agradecimientos especiales a Platzi💚.
 
